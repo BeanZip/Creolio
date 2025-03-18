@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\Creolio.dir\\BotStuff.cpp.obj",
+            "outputs": [
+                "C:\\Users\\Brendan\\CLionProject\\Creolio\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\Creolio.dir\\BotStuff.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

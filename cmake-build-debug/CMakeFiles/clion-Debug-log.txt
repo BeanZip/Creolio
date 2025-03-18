@@ -1,0 +1,4 @@
+C:\Users\Brendan\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Brendan/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -DCMAKE_TOOLCHAIN_FILE=C:/Users/Brendan/scoop/apps/vcpkg/current/scripts/buildsystems/vcpkg.cmake -G Ninja -S C:\Users\Brendan\CLionProject\Creolio -B C:\Users\Brendan\CLionProject\Creolio\cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/Brendan/CLionProject/Creolio/cmake-build-debug

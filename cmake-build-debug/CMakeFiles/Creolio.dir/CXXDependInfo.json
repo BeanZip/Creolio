@@ -1,0 +1,21 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/Brendan/CLionProject/Creolio/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/Brendan/CLionProject/Creolio",
+	"dir-top-bld" : "C:/Users/Brendan/CLionProject/Creolio/cmake-build-debug",
+	"dir-top-src" : "C:/Users/Brendan/CLionProject/Creolio",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\Users\\Brendan\\scoop\\apps\\vcpkg\\current\\installed\\x64-windows\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Brendan/CLionProject/Creolio/cmake-build-debug/CMakeFiles/Creolio.dir"
+}
